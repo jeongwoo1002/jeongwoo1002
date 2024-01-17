@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요👋 백엔드 개발자로 공부하고 있는 김정우입니다.
 
 <!--
 **jeongwoo1002/jeongwoo1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
